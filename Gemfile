@@ -63,3 +63,5 @@ group :test do
 end
 
 gem 'cssbundling-rails'
+
+gem "render_build_setup"
